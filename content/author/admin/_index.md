@@ -1,6 +1,6 @@
 +++
 # Display name
-name = "曹春"
+name = "Chun Cao"
 
 # Username (this should match the folder name)
 authors = ["admin"]
@@ -9,11 +9,11 @@ authors = ["admin"]
 superuser = true
 
 # Role/position
-role = "计算机系副教授"
+role = "Associate Professor"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "南京大学", url = "" } ]
+organizations = [ { name = "State Key Laboratory for Novel Software Technology", url = "" }, { name = "Department of Computer Science and Technology", url = "" }, { name = "Nanjing University", url = "https://www.nju.edu.cn" } ]
 
 # Short bio (displayed in user profile at end of posts)
 bio = "My research interests include distributed robotics, mobile computing and programmable matter."
