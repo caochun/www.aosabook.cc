@@ -3,7 +3,7 @@
 widget = "projects"  # Do not modify this line!
 active = true  # Activate this widget? true/false
 
-title = "Projects"
+title = "研究项目"
 subtitle = ""
 
 # Order that this section will appear in.
@@ -50,3 +50,6 @@ filter_default = 0
 
 +++
 
+
+- l
+- b
