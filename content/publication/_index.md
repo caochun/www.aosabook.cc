@@ -1,5 +1,5 @@
 +++
-title = "Publication"
+title = "论文"
 
 # View.
 #   1 = List
