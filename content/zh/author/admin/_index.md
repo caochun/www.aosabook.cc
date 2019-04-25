@@ -48,10 +48,10 @@ user_groups = ["Researchers", "Visitors"]
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 
-[[social]]
-  icon = "envelope"
-  icon_pack = "fas"
-  link = "mailto:caochun@nju"  # For a direct email link, use "mailto:test@example.org".
+#[[social]]
+#  icon = "envelope"
+#  icon_pack = "fas"
+#  link = "mailto:caochun@nju"  # For a direct email link, use "mailto:test@example.org".
 
 [[social]]
   icon = "google-scholar"
@@ -72,6 +72,6 @@ user_groups = ["Researchers", "Visitors"]
 
 +++
 
-曹春，1978年生，1996年进入南京大学计算机科学与技术系学习，于2000年、和2007年分别获得学士和博士学位。现任南京大学计算机科学与技术系副教授、硕士生导师。其研究领域为计算机软件技术，近年来工作重点包括网构软件、软件动态更新和面向云计算、大数据、机器学习的软件平台技术。
+曹春，1978年生，1996年进入南京大学计算机科学与技术系学习，于2000年、2007年分别获得学士和博士学位。现任南京大学计算机科学与技术系副教授、硕士生导师。其研究领域为计算机软件技术，近年来工作重点包括网构软件、软件动态更新和面向云计算、大数据、机器学习的软件平台技术。
 
-主持承担包括国家高技术研究发展计划（863）课题、国家重点研发计划课题、国家“核高基”科技重大专项课题等多项国家级科研任务，并目作为骨干人员参与了多项国家级和省部级科研项目。在ICSE、ASE、ICSME等国际会议和IEEE TSE、IST、JSS等国际期刊和《中国科学》等国内一级学报发表学术论文50余篇。获 2003年度教育部“提名国家科学技术奖”一等奖(第八完成人)，成果“网构软件技术、平台与应用”获教育 部技术发明一等奖(第八完成人)和国家科学技术进步二等奖(第十完成人)。
+主持承担包括国家高技术研究发展计划（863）课题、国家重点研发计划课题、国家“核高基”科技重大专项课题等多项国家级科研任务，并目作为骨干人员参与了多项国家级和省部级科研项目。在ICSE、ASE、ICSME等国际会议和IEEE TSE、IST、JSS等国际期刊和《中国科学》等国内一级学报发表学术论文50余篇。获 2003年度教育部“提名国家科学技术奖”一等奖，成果“网构软件技术、平台与应用”获教育 部技术发明一等奖和国家科学技术进步二等奖。
