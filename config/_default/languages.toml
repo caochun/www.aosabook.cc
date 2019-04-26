@@ -10,6 +10,8 @@
   languageCode = "zh-Hans"
   contentDir = "content/zh"
   title = "Chun@ICS"
+  address = "南京市仙林大道163号"
+
   [zh.params]
     description = ""
 
@@ -37,3 +39,5 @@
 [en]
   languageCode = "en-us"
     contentDir = "content/en"
+    address = "163# Xianlin Ave., Nanjing, China"
+
